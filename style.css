@@ -117,3 +117,35 @@ span{
     font-size: 0.85rem;
     font-weight: 700;
 }
+
+/* panrl */
+.panel{
+    display: flex;
+    height: 40px;
+    background-color:#085749; 
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.panel-ops p{
+    display: inline;
+    margin-left: 15px;
+}
+
+.panel-ops{
+    width: 70%;
+    font-size: 0.85rem;
+}
+
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+/*Hero Section  */
+/* .hero-section{
+    background-image: url("./image/-hero-image.jpg");
+    height: 600px;
+    background-size: cover;
+} */
