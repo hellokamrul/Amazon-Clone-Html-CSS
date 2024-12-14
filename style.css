@@ -164,7 +164,7 @@ span{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background-color:#f74e63;
+    background-color:#e3e6e6;
 
 }
 
@@ -182,4 +182,18 @@ span{
 }
 .box-content p{
     color:#007185 ;
+}
+
+footer{
+    margin-top:15px ;
+}
+
+.foot-panel{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
 }
